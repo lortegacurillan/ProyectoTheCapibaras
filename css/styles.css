@@ -1,0 +1,96 @@
+*{
+  font-family:sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+}
+header,section,footer,aside,nav,article,hgroup{
+  display: block;
+}
+header{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+  padding: 10px;
+}
+h1{
+  color: #12030B;
+}
+nav{
+  padding: 2vh;
+  background-color: #9BCA91;
+}
+article{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+  margin: 7px;
+  padding: 3px;
+}
+article li{
+  list-style-type: square;
+  margin: 15px 25px;
+}
+button{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);;
+  border: none;
+  color:rgb(rgb(221, 140, 140), rgb(146, 243, 146)26, 209, 126), rgb(159, 159, 242);
+  padding: 8px 25px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+}
+form{
+  width: 100%;
+}
+p{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);;
+  padding: 10px 19px;
+}
+aside{
+  background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+  background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);;
+  padding: 7px 12px;
+  width: 25%;
+  position: relative;
+
+}
+img{
+  width: 250px;
+  height: 250px;
+}
+footer{
+  background-color:green;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+section{
+  	background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+  padding: 2px 19px; 
+}
+div{
+	background: -moz-linear-gradient(top, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+	background: linear-gradient(to bottom, #CEA697 0%, #7AA49D 50%, #C57DB3 100%);
+  font-size: 24pt;
+  color:blue;
+  padding: 7px;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#listado li{
+  list-style-type: lower-alpha;
+  padding: 5px;
+  font-weight: bold;
+}
+
+
+.intro{
+  background-color: #5c5adf;
+}
