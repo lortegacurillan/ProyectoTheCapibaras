@@ -1,0 +1,11 @@
+.main-footer {
+    color: black;
+    background-color: rgb(165, 64, 64);
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    min-height: 14vh;
+}
+.container{
+    text-align: center;
+}

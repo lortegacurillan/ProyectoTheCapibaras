@@ -1,0 +1,21 @@
+.body{
+    position:relative;
+    margin-top: 0px;
+    width: 100%;
+}
+.header{
+    background-color: rgb(165, 64, 64);
+    text-align: center;
+}
+.logo{
+    font-size: 3rem;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    text-decoration: none;
+}
+.user-icon{
+    margin-right: 15px;
+    margin-top: -60px;
+    text-align: right;
+}
+

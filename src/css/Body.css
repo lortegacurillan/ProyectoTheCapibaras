@@ -1,0 +1,14 @@
+.page-container{
+    border-top: rgb(174, 170, 170) 3px solid;
+    border-left: rgb(174, 170, 170) 3px solid;
+    margin-top: -174px;
+    margin-left: 320px;
+    margin-bottom: 100px;
+}
+.grid{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap:1em;
+}
